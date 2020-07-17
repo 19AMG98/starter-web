@@ -15,3 +15,7 @@ To conquer the world.
 Starting from Florida.
 
 ## How To Contribute
+
+### Copyright
+
+2020 Git Training
